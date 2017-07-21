@@ -1,3 +1,3 @@
 # code-typography
 
-Typographic Experiments using code
+Typographic experiments using code.
