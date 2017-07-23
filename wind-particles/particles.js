@@ -1,4 +1,4 @@
-
+console.log('hel')
   var Particle = function(pos){
     // console.log('sup')
     // var r = int(random(0,txt.length));
